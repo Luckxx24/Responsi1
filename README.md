@@ -18,3 +18,5 @@ Menambahkan Data
 ![Screenshot (451)](https://github.com/user-attachments/assets/e96fae08-0cbe-4f7d-9a8f-b44630ae24da)
 
 tidak bisa konek ke server
+
+![Screenshot (445)](https://github.com/user-attachments/assets/b8e9af4c-6191-47c1-b21f-2af1436105c8)
