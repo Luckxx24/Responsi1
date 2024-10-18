@@ -16,3 +16,5 @@ Halaman utama
 Menambahkan Data
 
 ![Screenshot (451)](https://github.com/user-attachments/assets/e96fae08-0cbe-4f7d-9a8f-b44630ae24da)
+
+tidak bisa konek ke server
